@@ -1,0 +1,126 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* theme_cobalt
+# 
+# Translators:
+# Dorin Hongu <dhongu@gmail.com>, 2024
+# Martin Trigaux, 2024
+# Foldi Robert <foldirobert@nexterp.ro>, 2024
+# Larisa_nexterp, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-28 12:23+0000\n"
+"PO-Revision-Date: 2023-10-27 15:39+0000\n"
+"Last-Translator: Larisa_nexterp, 2025\n"
+"Language-Team: Romanian (https://app.transifex.com/odoo/teams/41243/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_picture
+msgid "<em>Our office in Dhaka</em>"
+msgstr "<em>Biroul nostru din Dhaka</em>"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_color_blocks_2
+msgid ""
+"Are you a startup or a seasoned company looking for a new brand identity?"
+msgstr ""
+"Ești o companie la început de drum sau cu experiență care caută o nouă "
+"identitate de brand?"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_color_blocks_2
+msgid "Are you an established brand looking for ongoing creative services?"
+msgstr "Ești un brand consacrat care caută servicii creative continue?"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_banner
+msgid ""
+"Building game-changing digital experiences designed to set your brand apart."
+msgstr ""
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
+msgid "Digital Transformation"
+msgstr "Transformare digitală"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_three_columns
+msgid "Latest projects"
+msgstr "Ultimele proiecte"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
+msgid ""
+"Leader in digital business, we’re helping companies of all sizes to thrive "
+"in an ever-changing landscape."
+msgstr ""
+"Lider în afaceri digitale, ajutăm companiile de toate dimensiunile să "
+"prospere într-un mediu în continuă schimbare."
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_banner
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_image_text
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
+msgid "Marketing"
+msgstr "Marketing"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_title
+msgid "Projects"
+msgstr "Proiecte"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_call_to_action
+msgid "START NOW"
+msgstr "ÎNCEPE ACUM"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_image_text
+msgid "Strategy synchronising multiple channels"
+msgstr "Strategie de sincronizare a mai multor canale"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_banner
+msgid "The ultimate marketing platform for brands"
+msgstr ""
+
+#. module: theme_cobalt
+#: model:ir.model,name:theme_cobalt.model_theme_utils
+msgid "Theme Utils"
+msgstr "Utile Temă"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_image_text
+msgid ""
+"We create a consistent customer experience through a detailed digital "
+"strategy built on precise customer research."
+msgstr ""
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
+msgid ""
+"We have collected solid experience in building native and cross-platform "
+"mobile applications and websites. Check our portfolio from clients around "
+"the world."
+msgstr ""
+"Avem o experiență solidă în dezvoltarea de aplicații mobile native și cross-"
+"platform, precum și de site-uri web. Consultă portofoliul nostru de clienți "
+"din întreaga lume."
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
+msgid "Web &amp; App Development"
+msgstr "Dezvoltare web &amp; aplicații"
+
+#. module: theme_cobalt
+#: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
+msgid "What we can do, <b>for you</b><br/>"
+msgstr ""

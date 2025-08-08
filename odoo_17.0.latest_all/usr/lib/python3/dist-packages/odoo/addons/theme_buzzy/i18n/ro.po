@@ -1,0 +1,152 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* theme_buzzy
+# 
+# Translators:
+# Foldi Robert <foldirobert@nexterp.ro>, 2024
+# Larisa_nexterp, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-28 12:21+0000\n"
+"PO-Revision-Date: 2023-10-27 15:39+0000\n"
+"Last-Translator: Larisa_nexterp, 2025\n"
+"Language-Team: Romanian (https://app.transifex.com/odoo/teams/41243/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_call_to_action
+msgid "<b>Start to build</b> your robust activity with these powerful tools"
+msgstr ""
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
+msgid "A new open world"
+msgstr "O nouă lume deschisă"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
+msgid "All data <br/>in your hands"
+msgstr "Toate datele <br/>în mâinile tale"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cover
+msgid ""
+"Bring the best for your team, start the journey with our amazing tools "
+"<br/>and collaborate no matter where you are."
+msgstr ""
+"Oferă ce e mai bun echipei tale, începe călătoria cu instrumentele noastre "
+"uimitoare <br/>și colaborează oriunde te-ai afla."
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
+msgid "Built to <br/>your effigy"
+msgstr "Creat pe <br/>măsura ta"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
+msgid ""
+"Don't miss any data anymore and get all reports you need when and where you "
+"want. Analyze them easily with our friendly interface and grow your "
+"activity."
+msgstr ""
+"Nu mai rata nicio informație și obține toate rapoartele de care ai nevoie, "
+"oricând și oriunde. Analizează-le ușor cu interfața noastră prietenoasă și "
+"dezvoltă-ți activitatea."
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
+msgid "Editable from <br/>A to Z"
+msgstr "Editabil de la <br/>A la Z"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_banner
+msgid "Every clever company deserve to work with clever tools."
+msgstr ""
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cover
+msgid "Faster, lighter and more powerful"
+msgstr "Mai rapid, mai ușor și mai puternic"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
+msgid ""
+"Feel free to edit your content the way like you want. You don't need to know"
+" any technical and complex computer language. You will helped by our "
+"intuitive tools."
+msgstr ""
+"Editează-ți conținutul așa cum dorești. Nu ai nevoie de cunoștințe tehnice "
+"sau limbaje complexe. Vei fi ajutat de instrumentele noastre intuitive."
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
+msgid "Get what you want, where and when you want."
+msgstr "Obține ce vrei, unde și când vrei."
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_banner
+msgid "Great software <br/>for great people"
+msgstr ""
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
+msgid "Improve your efficiency"
+msgstr "Îmbunătățește-ți eficiența"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_title
+msgid "Increase your productivity"
+msgstr "Crește-ți productivitatea"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
+msgid ""
+"It's not that easy to be efficient if we don't have the correct tools than "
+"we need. Can you imagine Batman saving Gotham City without his bat-tools?"
+msgstr ""
+"Nu este ușor să fii eficient dacă nu ai instrumentele potrivite. Îți poți "
+"imagina Batman salvând Gotham fără gadgeturile sale?"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_call_to_action
+msgid "Make your company a better place."
+msgstr "Fă-ți compania un loc mai bun."
+
+#. module: theme_buzzy
+#: model:ir.model,name:theme_buzzy.model_theme_utils
+msgid "Theme Utils"
+msgstr "Utile Temă"
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
+msgid "There is no magic, it's time to get the tools you deserve."
+msgstr "Nu există magie, e timpul să obții instrumentele pe care le meriți."
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
+msgid ""
+"Working at the office is good, but working where we want without distraction"
+" is better. With our Cloud service accessing to your data has never been so "
+"easy."
+msgstr ""
+"Lucrul la birou este bun, dar lucrul de oriunde fără distrageri este și mai "
+"bun. Cu serviciul nostru Cloud, accesul la datele tale nu a fost niciodată "
+"mai ușor."
+
+#. module: theme_buzzy
+#: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
+msgid ""
+"You will always find the ideal choice adapted to your needs. From the basic "
+"website based on our attractive templates to the tailor-made website "
+"reflecting your company's values."
+msgstr ""
+"Vei găsi mereu alegerea ideală adaptată nevoilor tale. De la site-ul de bază"
+" bazat pe șabloanele noastre atractive până la site-ul personalizat care "
+"reflectă valorile companiei tale."

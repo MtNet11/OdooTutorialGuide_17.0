@@ -1,0 +1,167 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* theme_artists
+# 
+# Translators:
+# Hongu Cosmin <cosmin513@gmail.com>, 2024
+# Martin Trigaux, 2024
+# Foldi Robert <foldirobert@nexterp.ro>, 2024
+# Larisa_nexterp, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-28 12:23+0000\n"
+"PO-Revision-Date: 2023-10-27 15:39+0000\n"
+"Last-Translator: Larisa_nexterp, 2025\n"
+"Language-Team: Romanian (https://app.transifex.com/odoo/teams/41243/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+msgid "<b>Painting concept / April 2021</b>"
+msgstr "<b>Concept pictură / Aprilie 2021</b>"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+msgid "<b>Photoshoot / June 2021</b>"
+msgstr "<b>Sesiune foto / Iunie 2021</b>"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+msgid "<b>Typographic collection / March 2021</b>"
+msgstr "<b>Colecție tipografică / Martie 2021</b>"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_call_to_action
+msgid "<b>Want to discover more?</b>"
+msgstr "<b>Vrei să descoperi mai mult?</b>"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "About me"
+msgstr "Despre mine"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+msgid "Aquitani"
+msgstr "Aquitani"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_comparisons
+msgid "Basic sales &amp; marketing"
+msgstr ""
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "Contact me"
+msgstr "Contactează-mă"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_call_to_action
+msgid "Contact me for a visit of my studio."
+msgstr "Contactează-mă pentru o vizită la studioul meu."
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "Discover"
+msgstr "Descoperă"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_image_text
+msgid "Discover <br/>my works"
+msgstr "Descoperă <br/>lucrările mele"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_cover
+msgid "Emotions <br/>through the colors"
+msgstr "Emoții <br/>prin culori"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_banner
+msgid "Emotions through the colors"
+msgstr "Emoții prin culori"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid ""
+"Formerly a corporate accountant, I started a professional transition 10 "
+"years ago."
+msgstr ""
+"Anterior contabil corporativ, am început o tranziție profesională acum 10 "
+"ani."
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "Here is a selection of my works, exhibited in my studio."
+msgstr "Aici este o selecție a lucrărilor mele, expuse în studioul meu."
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+msgid "Immemorabili"
+msgstr "Immemorabili"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_title
+msgid "It's all about perception"
+msgstr "Totul ține de percepție"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_text_image
+msgid "Let yourself <br/>be transported"
+msgstr "Lasă-te <br/>purta(t/ă)"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "More details"
+msgstr "Mai multe detalii"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_product_list
+msgid "More info"
+msgstr "Alte informații"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "My artistic process"
+msgstr "Procesul meu artistic"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid "My work"
+msgstr "Lucrările mele"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
+msgid ""
+"The choice of materials, colours are not insignificant, discover more about "
+"my artistic process."
+msgstr ""
+"Alegerea materialelor, a culorilor nu este întâmplătoare, descoperiți mai "
+"multe despre procesul meu artistic."
+
+#. module: theme_artists
+#: model:ir.model,name:theme_artists.model_theme_utils
+msgid "Theme Utils"
+msgstr "Utile Temă"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
+msgid "Vincam"
+msgstr "Vincam"
+
+#. module: theme_artists
+#: model_terms:theme.ir.ui.view,arch:theme_artists.s_text_image
+msgid ""
+"Welcome to my online home. I invite you to come in, learn more about me and "
+"my work, and stop to embrace the slow pleasure of art and beauty."
+msgstr ""
+"Bine ai venit în casa mea online. Te invit să intri, să afli mai multe "
+"despre mine și lucrările mele și să te oprești pentru a savura plăcerea "
+"lentă a artei și frumuseții."
